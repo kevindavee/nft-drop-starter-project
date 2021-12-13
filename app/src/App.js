@@ -60,8 +60,8 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header">🍭 Vira Drop</p>
-          <p className="sub-text">NFT drop machine with fair mint</p>
+          <p className="header">🍭 Brandon NFT</p>
+          <p className="sub-text">Get the latest Brandon NFT</p>
           {!walletAddress && renderNotConnectedContainer()}
         </div>
         {walletAddress && <CandyMachine walletAddress={window.solana} />}
