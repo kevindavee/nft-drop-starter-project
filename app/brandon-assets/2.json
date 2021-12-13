@@ -1,0 +1,33 @@
+{
+    "name": "BRDN",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GxxQzdGcTqgHqYTQNJ9Y6Y2HUHeY4VNFt8cszQZJHrKE",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+        {
+            "trait_type": "top",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "vibes",
+            "value": "young"
+        },
+        {
+            "trait_type": "glasses",
+            "value": "no"
+        }
+    ]
+  }
